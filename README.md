@@ -4,8 +4,9 @@
 
 ### Encuentra cómo construir tu marca personal desde cero en Platzi:
 
-[Curso 2016](https://platzi.com/clases/marca-personal-2016/) Prof. Mike Nieva
-[Curso actualizado](https://platzi.com/clases/marca-personal/) Prof. Freddy Vega
+[Curso 2016](https://platzi.com/clases/marca-personal-2016/), Prof. Mike Nieva
+
+[Curso actualizado](https://platzi.com/clases/marca-personal/), Prof. Freddy Vega
 
 ***
 
