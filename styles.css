@@ -17,6 +17,7 @@ body {
 
 .header__img {
   margin-left: 30px;
+  margin-top: 40px;
   width: 96px;
 }
 
@@ -98,12 +99,6 @@ body {
 }
 
 @media only screen and (max-width: 600px) {
-  .login__container {
-    background-color: transparent;
-    border: none;
-    padding: 0px;
-    width: 100%;
-  }
   .footer {
     align-items: flex-start;
     flex-direction: column;
